@@ -1,0 +1,80 @@
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Bianu Fitness FitforLife.exe.config
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Baze_de_date_atestat.mdf
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Baze_de_date_atestat_log.ldf
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form1.resx
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Baze_de_date_atestatDataSet.Designer.cs
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form1.cs
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form1.Designer.cs
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form2.cs
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form2.Designer.cs
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form3.cs
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form3.Designer.cs
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form4.cs
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form4.Designer.cs
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form5.cs
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form5.Designer.cs
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form6.cs
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form6.Designer.cs
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Baze_de_date_atestatDataSet.xsc
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Baze_de_date_atestatDataSet.xsd
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Baze_de_date_atestatDataSet.xss
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Bianu Fitness FitforLife.exe
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Bianu Fitness FitforLife.pdb
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\obj\x86\Debug\Bianu_Fitness_FitforLife.Form1.resources
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\obj\x86\Debug\Bianu_Fitness_FitforLife.Form2.resources
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\obj\x86\Debug\Bianu_Fitness_FitforLife.Form3.resources
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\obj\x86\Debug\Bianu_Fitness_FitforLife.Form4.resources
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\obj\x86\Debug\Bianu_Fitness_FitforLife.Form5.resources
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\obj\x86\Debug\Bianu_Fitness_FitforLife.Form6.resources
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\obj\x86\Debug\Bianu_Fitness_FitforLife.Properties.Resources.resources
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\obj\x86\Debug\Bianu Fitness FitforLife.csproj.GenerateResource.Cache
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\obj\x86\Debug\Bianu Fitness FitforLife.exe
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\obj\x86\Debug\Bianu Fitness FitforLife.pdb
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\obj\x86\Debug\Bianu Fitness FitforLife.csprojResolveAssemblyReference.cache
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form2.resx
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form3.resx
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form4.resx
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form5.resx
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form6.resx
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Program.cs
+E:\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\app.config
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Bianu Fitness FitforLife.exe.config
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\obj\x86\Debug\Bianu Fitness FitforLife.exe
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\obj\x86\Debug\Bianu Fitness FitforLife.pdb
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Baze_de_date_atestat.mdf
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Baze_de_date_atestat_log.ldf
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form1.resx
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form2.resx
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form3.resx
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form4.resx
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form5.resx
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form6.resx
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Baze_de_date_atestatDataSet.Designer.cs
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form1.cs
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form1.Designer.cs
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form2.cs
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form2.Designer.cs
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form3.cs
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form3.Designer.cs
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form4.cs
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form4.Designer.cs
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form5.cs
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form5.Designer.cs
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form6.cs
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Form6.Designer.cs
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Program.cs
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\app.config
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Baze_de_date_atestatDataSet.xsc
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Baze_de_date_atestatDataSet.xsd
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Baze_de_date_atestatDataSet.xss
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Bianu Fitness FitforLife.exe
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\bin\Debug\Bianu Fitness FitforLife.pdb
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\obj\x86\Debug\Bianu Fitness FitforLife.csprojResolveAssemblyReference.cache
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\obj\x86\Debug\Bianu_Fitness_FitforLife.Form1.resources
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\obj\x86\Debug\Bianu_Fitness_FitforLife.Form2.resources
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\obj\x86\Debug\Bianu_Fitness_FitforLife.Form3.resources
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\obj\x86\Debug\Bianu_Fitness_FitforLife.Form4.resources
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\obj\x86\Debug\Bianu_Fitness_FitforLife.Form5.resources
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\obj\x86\Debug\Bianu_Fitness_FitforLife.Form6.resources
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\obj\x86\Debug\Bianu_Fitness_FitforLife.Properties.Resources.resources
+C:\Users\Fabian\Desktop\CIOBAN FABIAN - REMUS\Bianu Fitness FitforLife\Bianu Fitness FitforLife\obj\x86\Debug\Bianu Fitness FitforLife.csproj.GenerateResource.Cache
